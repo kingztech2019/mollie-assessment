@@ -32,7 +32,7 @@ const FeatureCard:React.FC <FeatureCardProps  > = ({ title, description, buttonT
       </div>
     ) : (
       <div className="flex flex-wrap gap-2">
-        {icons?.map((icon, index) => (
+        {icons?.map((index) => (
           <div key={index} className="w-12 h-12 bg-gray-200 rounded-lg"></div>
         ))}
       </div>

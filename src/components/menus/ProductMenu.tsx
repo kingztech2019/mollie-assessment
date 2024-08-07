@@ -1,6 +1,6 @@
 import React from 'react';
 import { IconType } from 'react-icons';
-import { FaCreditCard, FaStore, FaShoppingCart, FaRecycle, FaShieldAlt, FaArrowCircleRight } from 'react-icons/fa';
+import { FaCreditCard, FaStore, FaShoppingCart, FaRecycle, FaShieldAlt } from 'react-icons/fa';
 import { FaArrowRight } from 'react-icons/fa6';
 
 

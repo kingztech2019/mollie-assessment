@@ -5,7 +5,6 @@ import amazonLogo from "../../assets/logo3.png";
 import facebookLogo from "../../assets/logo4.png";
 import gitLabLogo from "../../assets/logo5.png";
 import musicLogo from "../../assets/logo6.png";
-import apexLogo from "../../assets/logo-apex.png";
 import { motion } from "framer-motion";
  
 

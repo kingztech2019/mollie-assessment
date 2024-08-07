@@ -1,4 +1,3 @@
-import React from 'react'
 import SubscriptionComponent from './SubscriptionComponent'
 import RevenueRiskComponent from './RevenueRisk'
 
